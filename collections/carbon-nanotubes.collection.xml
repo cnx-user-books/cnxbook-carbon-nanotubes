@@ -1,145 +1,55 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" authors="Dennis J. Flood ,Andrew R. Barron">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11576</md:content-id>
-  <md:title>Carbon Nanotubes</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>a0309d0a-3759-4a07-8ef7-f6eb29220eb6</md:uuid>
-<md:slug>carbon-nanotubes</md:slug>
-</metadata>
-
+    <md:content-id>col11576</md:content-id>
+    <md:title>Carbon Nanotubes</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>a0309d0a-3759-4a07-8ef7-f6eb29220eb6</md:uuid>
+    <md:slug>carbon-nanotubes</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>History and Background</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m32186"/>
-        
-      
-    
-    
-      <col:module document="m14355"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Synthesis and Chemistry</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m22580"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Characterization</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m22299"/>
-        
-      
-    
-    
-      <col:module document="m22925"/>
-        
-      
-    
-    
-      <col:module document="m22972"/>
-        
-      
-    
-    
-      <col:module document="m22963">
-        <col:featured-links>
-          
+    <col:subcollection>
+      <md:title>History and Background</md:title>
+      <col:content>
+        <col:module document="m32186"/>
+        <col:module document="m14355"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Synthesis and Chemistry</md:title>
+      <col:content>
+        <col:module document="m22580"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Characterization</md:title>
+      <col:content>
+        <col:module document="m22299"/>
+        <col:module document="m22925"/>
+        <col:module document="m22972"/>
+        <col:module document="m22963">
+          <col:featured-links>
             <cnxml:link-group type="example">
               <cnxml:link url="http://cnx.org/GroupWorkspaces/wg1270/module.2009-01-29.5768476107/1.JPG">cnt</cnxml:link>
               <cnxml:link url="http://cnx.org/GroupWorkspaces/wg1270/module.2009-01-29.5768476107/graphics3.png/view">Figure 3</cnxml:link>
             </cnxml:link-group>
-          
-          
             <cnxml:link-group type="prerequisite">
               <cnxml:link url="http://cnx.org/GroupWorkspaces/wg1270/module.2009-01-29.5768476107/TEM%20setup.jpg/view">Figure 1</cnxml:link>
               <cnxml:link url="http://cnx.org/GroupWorkspaces/wg1270/module.2009-01-29.5768476107/graphics2.png/view">Figure 2</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m38335"/>
-        
-      
-    
-    
-      <col:module document="m34664"/>
-        
-      
-    
-    
-      <col:module document="m34549"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Laboratory Experiments</md:title>
-        
-        
-        
-
-        <col:content>
+          </col:featured-links>
+        </col:module>
+        <col:module document="m38335"/>
+        <col:module document="m34664"/>
+        <col:module document="m34549"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Laboratory Experiments</md:title>
+      <col:content>
           
         </col:content>
-      </col:subcollection>
-    
+    </col:subcollection>
   </col:content>
 </col:collection>
